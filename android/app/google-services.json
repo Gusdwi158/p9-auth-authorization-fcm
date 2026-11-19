@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "232814006097",
+    "project_id": "kosfinder-fcm",
+    "storage_bucket": "kosfinder-fcm.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:232814006097:android:1893f8d2abbc1421fc0d70",
+        "android_client_info": {
+          "package_name": "com.example.flutter_ui_fundamentals"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmH2DNqFHSVcOoM5hnJ0HVRie9u0-_wCQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
