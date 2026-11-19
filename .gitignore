@@ -65,3 +65,5 @@ lib/generated_plugin_registrant.dart
 **/windows/flutter/ephemeral
 **/linux/flutter/ephemeral/
 **/linux/flutter/ephemeral
+/build/
+/android/.gradle/

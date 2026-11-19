@@ -2,6 +2,12 @@
   "configVersion": 2,
   "packages": [
     {
+      "name": "_flutterfire_internals",
+      "rootUri": "file:///C:/Users/GUS%20DWI/AppData/Local/Pub/Cache/hosted/pub.dev/_flutterfire_internals-1.4.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.12"
+    },
+    {
       "name": "app_links",
       "rootUri": "file:///C:/Users/GUS%20DWI/AppData/Local/Pub/Cache/hosted/pub.dev/app_links-7.2.2",
       "packageUri": "lib/",
@@ -102,6 +108,42 @@
       "rootUri": "file:///C:/Users/GUS%20DWI/AppData/Local/Pub/Cache/hosted/pub.dev/file-7.0.1",
       "packageUri": "lib/",
       "languageVersion": "3.0"
+    },
+    {
+      "name": "firebase_core",
+      "rootUri": "file:///C:/Users/GUS%20DWI/AppData/Local/Pub/Cache/hosted/pub.dev/firebase_core-5.2.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.12"
+    },
+    {
+      "name": "firebase_core_platform_interface",
+      "rootUri": "file:///C:/Users/GUS%20DWI/AppData/Local/Pub/Cache/hosted/pub.dev/firebase_core_platform_interface-8.2.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.12"
+    },
+    {
+      "name": "firebase_core_web",
+      "rootUri": "file:///C:/Users/GUS%20DWI/AppData/Local/Pub/Cache/hosted/pub.dev/firebase_core_web-4.2.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.12"
+    },
+    {
+      "name": "firebase_messaging",
+      "rootUri": "file:///C:/Users/GUS%20DWI/AppData/Local/Pub/Cache/hosted/pub.dev/firebase_messaging-17.1.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.12"
+    },
+    {
+      "name": "firebase_messaging_platform_interface",
+      "rootUri": "file:///C:/Users/GUS%20DWI/AppData/Local/Pub/Cache/hosted/pub.dev/firebase_messaging_platform_interface-4.12.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.12"
+    },
+    {
+      "name": "firebase_messaging_web",
+      "rootUri": "file:///C:/Users/GUS%20DWI/AppData/Local/Pub/Cache/hosted/pub.dev/firebase_messaging_web-4.4.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.12"
     },
     {
       "name": "flutter",
